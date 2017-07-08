@@ -1,0 +1,22 @@
+{
+  "name": "lixiongyou/r",
+  "description": "Relation oriented framework",
+  "authors": [
+    {
+      "name": "lixiongyou",
+      "email": "lixiongyou@hotmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "autoload": {
+    "psr-4": {
+      "R\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
