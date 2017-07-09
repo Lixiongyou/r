@@ -1,2 +1,2 @@
 # r
-Relation oriented framework
+Relation oriented definition
